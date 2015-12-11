@@ -58,3 +58,6 @@ target/
 
 # Org files
 *.org
+
+#Dia files
+*.dia
