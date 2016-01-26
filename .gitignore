@@ -66,4 +66,9 @@ target/
 # Pdf files
 *.pdf
 
+# DB files
+*.db
+
+# Py temporal
+*.py~
 
