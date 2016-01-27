@@ -56,11 +56,10 @@ docs/_build/
 # PyBuilder
 target/
 
-# Org files
-*.org
+
 
 #Dia files
-*.dia
+
 *.dia.autosave
 
 # Pdf files
