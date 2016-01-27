@@ -55,3 +55,19 @@ docs/_build/
 
 # PyBuilder
 target/
+
+
+
+#Dia files
+
+*.dia.autosave
+
+# Pdf files
+*.pdf
+
+# DB files
+*.db
+
+# Py temporal
+*.py~
+
